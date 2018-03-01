@@ -1,0 +1,10 @@
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2013-08-04 18:54:54
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Referer) cs-host sc-status sc-bytes cs-bytes 
+2013-08-04 18:54:53 W3SVC668947 GET /robots.txt - - 66.249.73.144 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - itdmx.com 404 4173 259
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2013-08-05 03:14:25
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Referer) cs-host sc-status sc-bytes cs-bytes 
+2013-08-05 03:14:24 W3SVC668947 GET /vienepronto.html - - 67.159.44.55 HTTP/1.1 Mozilla/5.0+(Windows;+U;+Windows+NT+5.1;+rv:1.7.3)+Gecko/20041001+Firefox/0.10.1 - itdmx.com 200 5330 330

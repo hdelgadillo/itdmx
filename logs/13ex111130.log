@@ -1,0 +1,10 @@
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2011-11-30 07:44:52
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Referer) cs-host sc-status sc-bytes cs-bytes 
+2011-11-30 07:44:52 W3SVC668947 GET /vienepronto.html - - 87.250.252.240 HTTP/1.1 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) - itdmx.com 200 1403 274
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2011-11-30 16:20:38
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Referer) cs-host sc-status sc-bytes cs-bytes 
+2011-11-30 16:20:37 W3SVC668947 GET /vienepronto.html - - 220.181.108.91 HTTP/1.1 Mozilla/5.0+(compatible;+Baiduspider/2.0;++http://www.baidu.com/search/spider.html) - itdmx.com 200 1422 217

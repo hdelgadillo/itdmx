@@ -1,0 +1,22 @@
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2013-08-29 09:32:17
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Referer) cs-host sc-status sc-bytes cs-bytes 
+2013-08-29 09:32:17 W3SVC668947 GET /robots.txt - - 64.246.161.42 HTTP/1.0 Mozilla/5.0+(Windows;+U;+Windows+NT+5.1;+en;+rv:1.9.0.13)+Gecko/2009073022+Firefox/3.5.2+(.NET+CLR+3.5.30729)+SurveyBot/2.3+(DomainTools) - www.itdmx.com 404 4192 286
+2013-08-29 09:32:18 W3SVC668947 GET /vienepronto.html - - 64.246.161.42 HTTP/1.1 Mozilla/5.0+(Windows;+U;+Windows+NT+5.1;+en;+rv:1.9.0.13)+Gecko/2009073022+Firefox/3.5.2+(.NET+CLR+3.5.30729)+SurveyBot/2.3+(DomainTools) http://whois.domaintools.com/itdmx.com www.itdmx.com 200 1407 467
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2013-08-29 16:21:18
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Referer) cs-host sc-status sc-bytes cs-bytes 
+2013-08-29 16:21:18 W3SVC668947 GET /vienepronto.html - - 64.29.144.89 HTTP/1.1 Mozilla/5.0+(X11;+Ubuntu;+Linux+i686;+rv:19.0)+Gecko/20100101+Firefox/19.0 - itdmx.com 200 5330 281
+2013-08-29 16:21:23 W3SVC668947 GET /aspnet_client/system_web/1_1_4322/SmartNav.htm - - 64.29.144.89 HTTP/1.1 Mozilla/5.0+(X11;+Ubuntu;+Linux+i686;+rv:19.0)+Gecko/20100101+Firefox/19.0 - itdmx.com 200 236 327
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2013-08-30 04:43:51
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Referer) cs-host sc-status sc-bytes cs-bytes 
+2013-08-30 04:43:50 W3SVC668947 GET /vienepronto.html - - 182.93.237.145 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10.8;+rv:22.0)+Gecko/20100101+Firefox/22.0 http://itdmx.com/ itdmx.com 200 5330 199
+2013-08-30 04:43:56 W3SVC668947 GET /wordpress - - 182.93.237.145 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10.8;+rv:22.0)+Gecko/20100101+Firefox/22.0 http://itdmx.com/wordpress itdmx.com 404 4173 217
+2013-08-30 04:44:00 W3SVC668947 GET /wp - - 182.93.237.145 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10.8;+rv:22.0)+Gecko/20100101+Firefox/22.0 http://itdmx.com/wp itdmx.com 404 4173 203
+2013-08-30 04:44:02 W3SVC668947 GET /joomla - - 182.93.237.145 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10.8;+rv:22.0)+Gecko/20100101+Firefox/22.0 http://itdmx.com/joomla itdmx.com 404 4173 211
+2013-08-30 04:44:06 W3SVC668947 GET /drupal - - 182.93.237.145 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10.8;+rv:22.0)+Gecko/20100101+Firefox/22.0 http://itdmx.com/drupal itdmx.com 404 4173 211
+2013-08-30 04:44:07 W3SVC668947 GET /blog - - 182.93.237.145 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10.8;+rv:22.0)+Gecko/20100101+Firefox/22.0 http://itdmx.com/blog itdmx.com 404 4173 207

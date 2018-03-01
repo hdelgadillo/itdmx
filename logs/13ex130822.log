@@ -1,0 +1,21 @@
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2013-08-22 07:40:55
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Referer) cs-host sc-status sc-bytes cs-bytes 
+2013-08-22 07:40:54 W3SVC668947 GET /vienepronto.html - - 192.241.188.30 HTTP/1.1 - - itdmx.com 200 5330 48
+2013-08-22 07:41:08 W3SVC668947 GET /vienepronto.html - - 192.241.188.30 HTTP/1.1 - - itdmx.com 200 5277 64
+2013-08-22 07:43:33 W3SVC668947 GET /vienepronto.html - - 173.252.73.118 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - itdmx.com 206 1450 214
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2013-08-22 15:20:42
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Referer) cs-host sc-status sc-bytes cs-bytes 
+2013-08-22 15:20:42 W3SVC668947 GET /robots.txt - - 46.165.197.142 HTTP/1.0 Mozilla/5.0+(compatible;+MJ12bot/v1.4.3;+http://www.majestic12.co.uk/bot.php?+) - itdmx.com 404 4192 191
+2013-08-22 15:20:44 W3SVC668947 GET /vienepronto.html - - 46.165.197.142 HTTP/1.0 Mozilla/5.0+(compatible;+MJ12bot/v1.4.3;+http://www.majestic12.co.uk/bot.php?+) - itdmx.com 200 5349 336
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2013-08-22 23:18:27
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Referer) cs-host sc-status sc-bytes cs-bytes 
+2013-08-22 23:18:27 W3SVC668947 GET /robots.txt - - 198.27.82.152 HTTP/1.1 Mozilla/5.0+(compatible;+meanpathbot/1.0;++http://www.meanpath.com/meanpathbot.html) - itdmx.com 404 4173 166
+2013-08-22 23:18:28 W3SVC668947 GET /vienepronto.html - - 198.27.82.152 HTTP/1.1 Mozilla/5.0+(compatible;+meanpathbot/1.0;++http://www.meanpath.com/meanpathbot.html) - itdmx.com 200 1403 156
+2013-08-22 23:18:35 W3SVC668947 GET /favicon.ico - - 198.27.82.152 HTTP/1.1 Mozilla/5.0+(compatible;+meanpathbot/1.0;++http://www.meanpath.com/meanpathbot.html) - itdmx.com 404 4173 167
+2013-08-22 23:18:36 W3SVC668947 GET /apple-touch-icon.png - - 198.27.82.152 HTTP/1.1 Mozilla/5.0+(compatible;+meanpathbot/1.0;++http://www.meanpath.com/meanpathbot.html) - itdmx.com 404 4173 176

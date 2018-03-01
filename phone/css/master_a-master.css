@@ -1,0 +1,448 @@
+#u3218
+{
+	-pie-box-shadow: 4px 2px 8px #323232;
+	box-shadow: 4px 2px 8px rgba(0,0,0,0.8);
+	border-style: none;
+	border-color: transparent;
+	background-color: #FFFFFF;
+}
+
+#u3803
+{
+	position: absolute;
+	background-color: transparent;
+}
+
+#u3804,#buttonu3805
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: #FFFFFF;
+	position: relative;
+}
+
+#buttonu3805:hover
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: #203478;
+}
+
+#u3808-4
+{
+	background-color: transparent;
+	text-align: center;
+	position: relative;
+}
+
+#buttonu3805:hover #u3808-4 p,#buttonu3805:hover #u3808-4 span,#buttonu3805.ButtonSelected #u3808-4 p,#buttonu3805.ButtonSelected #u3808-4 span
+{
+	color: #FFFFFF;
+	visibility: inherit;
+}
+
+#u3808-2
+{
+	padding-top: 1px;
+	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
+}
+
+#u3806
+{
+	border-style: none;
+	background-color: transparent;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
+	position: relative;
+}
+
+#buttonu3805:hover #u3806
+{
+	background-color: transparent;
+}
+
+#buttonu3805:active #u3806
+{
+	background-color: transparent;
+}
+
+#buttonu3809
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: #FFFFFF;
+	position: relative;
+}
+
+#buttonu3809:hover
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: #203478;
+}
+
+#u3812-4
+{
+	background-color: transparent;
+	text-align: center;
+	position: relative;
+}
+
+#buttonu3809:hover #u3812-4 p,#buttonu3809:hover #u3812-4 span,#buttonu3809:active #u3812-4 p,#buttonu3809:active #u3812-4 span
+{
+	color: #FFFFFF;
+	visibility: inherit;
+}
+
+#buttonu3809.ButtonSelected #u3812-4 p,#buttonu3809.ButtonSelected #u3812-4 span
+{
+	color: #FFFFFF;
+	visibility: inherit;
+	font-family: Trebuchet, Trebuchet MS, Tahoma, Arial, sans-serif;
+}
+
+#u3812-2
+{
+	padding-top: 1px;
+	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
+}
+
+#u3810
+{
+	border-style: none;
+	background-color: transparent;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
+	position: relative;
+}
+
+#buttonu3805.ButtonSelected #u3806,#buttonu3809:hover #u3810
+{
+	background-color: transparent;
+}
+
+#buttonu3809:active #u3810
+{
+	background-color: transparent;
+}
+
+#buttonu3817
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: #FFFFFF;
+	position: relative;
+}
+
+#buttonu3817:hover
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: #203478;
+}
+
+#u3818-4
+{
+	background-color: transparent;
+	text-align: center;
+	position: relative;
+}
+
+#buttonu3817:hover #u3818-4 p,#buttonu3817:hover #u3818-4 span,#buttonu3817.ButtonSelected #u3818-4 p,#buttonu3817.ButtonSelected #u3818-4 span
+{
+	color: #FFFFFF;
+	visibility: inherit;
+}
+
+#u3818-2
+{
+	padding-top: 1px;
+	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
+}
+
+#u3819
+{
+	border-style: none;
+	background-color: transparent;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
+	position: relative;
+}
+
+#buttonu3809.ButtonSelected #u3810,#buttonu3817:hover #u3819
+{
+	background-color: transparent;
+}
+
+#buttonu3817:active #u3819
+{
+	background-color: transparent;
+}
+
+#buttonu3813
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: #FFFFFF;
+	position: relative;
+}
+
+#buttonu3813:hover
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: #203478;
+}
+
+#u3814-4
+{
+	background-color: transparent;
+	text-align: center;
+	position: relative;
+}
+
+#buttonu3813:hover #u3814-4 p,#buttonu3813:hover #u3814-4 span,#buttonu3813.ButtonSelected #u3814-4 p,#buttonu3813.ButtonSelected #u3814-4 span
+{
+	color: #FFFFFF;
+	visibility: inherit;
+}
+
+#u3814-2
+{
+	padding-top: 1px;
+	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
+}
+
+#u3815
+{
+	border-style: none;
+	background-color: transparent;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
+	position: relative;
+}
+
+#buttonu3817.ButtonSelected #u3819,#buttonu3813:hover #u3815
+{
+	background-color: transparent;
+}
+
+#buttonu3813:active #u3815
+{
+	background-color: transparent;
+}
+
+#buttonu3831
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: #FFFFFF;
+	position: relative;
+}
+
+#buttonu3831:hover
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: #203478;
+}
+
+#u3832-4
+{
+	background-color: transparent;
+	text-align: center;
+	position: relative;
+}
+
+#buttonu3831:hover #u3832-4 p,#buttonu3831:hover #u3832-4 span,#buttonu3831.ButtonSelected #u3832-4 p,#buttonu3831.ButtonSelected #u3832-4 span
+{
+	color: #FFFFFF;
+	visibility: inherit;
+}
+
+#u3832-2
+{
+	padding-top: 1px;
+	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
+}
+
+#u3833
+{
+	border-style: none;
+	background-color: transparent;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
+	position: relative;
+}
+
+#buttonu3813.ButtonSelected #u3815,#buttonu3831:hover #u3833
+{
+	background-color: transparent;
+}
+
+#buttonu3831:active #u3833
+{
+	background-color: transparent;
+}
+
+#buttonu3827
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: #FFFFFF;
+	position: relative;
+}
+
+#buttonu3827:hover
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: #203478;
+}
+
+#buttonu3805.ButtonSelected,#buttonu3809.ButtonSelected,#buttonu3817.ButtonSelected,#buttonu3813.ButtonSelected,#buttonu3831.ButtonSelected,#buttonu3827.ButtonSelected
+{
+	background-color: #203478;
+}
+
+#u3830-4
+{
+	background-color: transparent;
+	text-align: center;
+	position: relative;
+}
+
+#buttonu3827:hover #u3830-4 p,#buttonu3827:hover #u3830-4 span,#buttonu3827.ButtonSelected #u3830-4 p,#buttonu3827.ButtonSelected #u3830-4 span
+{
+	color: #FFFFFF;
+	visibility: inherit;
+}
+
+#u3830-2
+{
+	padding-top: 1px;
+	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
+}
+
+#u3808,#u3812,#u3818,#u3814,#u3832,#u3830
+{
+	color: #000000;
+	font-family: Trebuchet, Trebuchet MS, Tahoma, Arial, sans-serif;
+	line-height: 19px;
+}
+
+#u3828
+{
+	border-style: none;
+	background-color: transparent;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
+	position: relative;
+}
+
+#u3806::before,#u3810::before,#u3819::before,#u3815::before,#u3833::before,#u3828::before
+{
+	box-shadow: none;
+}
+
+#buttonu3831.ButtonSelected #u3833,#buttonu3827:hover #u3828
+{
+	background-color: transparent;
+}
+
+#buttonu3827:active #u3828
+{
+	background-color: transparent;
+}
+
+#buttonu3827.ButtonSelected #u3828
+{
+	background-color: transparent;
+}
+
+#pamphletu3795,#u3836
+{
+	position: relative;
+}
+
+#u3837
+{
+	position: absolute;
+	border-style: none;
+	border-color: transparent;
+	background-color: #203478;
+}
+
+#u3837.PamphletThumbSelected
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: #DA282B;
+}
+
+#u3219,#u3838
+{
+	background-color: transparent;
+	position: relative;
+}
+
+#u3798
+{
+	position: absolute;
+	border-style: none;
+	border-color: transparent;
+	background-color: #203478;
+}
+
+#u3799
+{
+	background-color: transparent;
+	position: relative;
+}
+
+.PamphletWidget .ThumbGroup .Thumb,.PamphletNextButton,.PamphletPrevButton,.PamphletCloseButton /* pamphlet2 */
+{
+	cursor: pointer;
+}
+
+#u3221
+{
+	-pie-box-shadow: 8px 0px 8px #7F7F7F;
+	box-shadow: 8px 0px 8px rgba(0,0,0,0.5);
+	background-color: #203478;
+}
+
+#u3222-6
+{
+	background-color: transparent;
+	text-align: left;
+	color: #FFFFFF;
+	font-family: Trebuchet, Trebuchet MS, Tahoma, Arial, sans-serif;
+	position: relative;
+}
+
+#buttonu3223
+{
+	border-color: #787878;
+	position: relative;
+	background: transparent url("../../images/facebook-buttonu3223-fr.png") no-repeat left top;
+}
+
+#buttonu3223:hover
+{
+	background-repeat: no-repeat;
+	background-position: left top;
+}
+
+#buttonu3223.ButtonSelected
+{
+	background-repeat: no-repeat;
+	background-position: left top;
+}
+

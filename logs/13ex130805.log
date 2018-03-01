@@ -1,0 +1,15 @@
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2013-08-05 05:35:41
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Referer) cs-host sc-status sc-bytes cs-bytes 
+2013-08-05 05:35:41 W3SVC668947 GET /vienepronto.html - - 50.113.17.117 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534.24+(KHTML,+like+Gecko)+Chrome/11.0.696.71+Safari/534.24 - www.itdmx.com 200 1426 288
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2013-08-05 08:52:35
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Referer) cs-host sc-status sc-bytes cs-bytes 
+2013-08-05 08:52:34 W3SVC668947 GET /robots.txt - - 66.249.73.140 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - itdmx.com 404 4173 259
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2013-08-06 03:22:59
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Referer) cs-host sc-status sc-bytes cs-bytes 
+2013-08-06 03:22:59 W3SVC668947 GET /robots.txt - - 180.76.5.100 HTTP/1.1 Mozilla/5.0+(Windows+NT+5.1;+rv:6.0.2)+Gecko/20100101+Firefox/6.0.2 - www.itdmx.com 404 0 185

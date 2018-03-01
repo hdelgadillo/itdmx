@@ -1,0 +1,6 @@
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2013-08-09 11:48:27
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Referer) cs-host sc-status sc-bytes cs-bytes 
+2013-08-09 11:48:27 W3SVC668947 GET /robots.txt - - 130.185.109.239 HTTP/1.1 PagesInventory+(robot+http://www.pagesinvenotry.com) - www.itdmx.com 404 4173 135
+2013-08-09 11:48:29 W3SVC668947 GET /vienepronto.html - - 130.185.109.239 HTTP/1.1 PagesInventory+(robot++http://www.pagesinventory.com) - www.itdmx.com 200 1407 176

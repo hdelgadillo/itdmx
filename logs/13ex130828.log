@@ -1,0 +1,29 @@
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2013-08-28 14:49:21
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Referer) cs-host sc-status sc-bytes cs-bytes 
+2013-08-28 14:49:20 W3SVC668947 GET /vienepronto.html - - 108.82.125.114 HTTP/1.1 Mozilla/5.0+(Windows+NT+5.1;+rv:23.0)+Gecko/20100101+Firefox/23.0 http://tools.cisco.com/WWChannels/LOCATR/performBasicSearch.do www.itdmx.com 200 1407 353
+2013-08-28 14:49:22 W3SVC668947 GET /favicon.ico - - 108.82.125.114 HTTP/1.1 Mozilla/5.0+(Windows+NT+5.1;+rv:23.0)+Gecko/20100101+Firefox/23.0 - www.itdmx.com 404 4173 291
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2013-08-28 15:21:25
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Referer) cs-host sc-status sc-bytes cs-bytes 
+2013-08-28 15:21:25 W3SVC668947 GET /vienepronto.html - - 187.234.127.73 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64;+rv:22.0)+Gecko/20100101+Firefox/22.0 - www.itdmx.com 200 1407 332
+2013-08-28 15:21:26 W3SVC668947 GET /favicon.ico - - 187.234.127.73 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64;+rv:22.0)+Gecko/20100101+Firefox/22.0 - www.itdmx.com 404 4173 343
+2013-08-28 15:21:26 W3SVC668947 GET /favicon.ico - - 187.234.127.73 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64;+rv:22.0)+Gecko/20100101+Firefox/22.0 - www.itdmx.com 404 4173 343
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2013-08-28 19:08:15
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Referer) cs-host sc-status sc-bytes cs-bytes 
+2013-08-28 19:08:15 W3SVC668947 GET /vienepronto.html - - 180.76.5.65 HTTP/1.1 Mozilla/5.0+(compatible;+Baiduspider/2.0;++http://www.baidu.com/search/spider.html) - www.itdmx.com 200 1426 215
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2013-08-29 00:58:11
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Referer) cs-host sc-status sc-bytes cs-bytes 
+2013-08-29 00:58:10 W3SVC668947 GET /robots.txt - - 66.249.73.139 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - itdmx.com 404 4173 259
+2013-08-29 00:58:11 W3SVC668947 GET /vienepronto.html - - 66.249.73.119 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - itdmx.com 200 1403 223
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2013-08-29 02:54:48
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Referer) cs-host sc-status sc-bytes cs-bytes 
+2013-08-29 02:54:48 W3SVC668947 GET /vienepronto.html - - 176.31.14.30 HTTP/1.1 Opera/9.80+(Windows+NT+6.1;+U;+en-US)+Presto/2.9.181+Version/12.00 - itdmx.com 200 5349 161

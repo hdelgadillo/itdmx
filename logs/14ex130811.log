@@ -1,0 +1,10 @@
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2013-08-11 16:02:07
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Referer) cs-host sc-status sc-bytes cs-bytes 
+2013-08-11 16:02:07 W3SVC668947 GET /vienepronto.html - - 70.95.123.164 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534.24+(KHTML,+like+Gecko)+Chrome/11.0.696.71+Safari/534.24 - www.itdmx.com 200 1426 288
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2013-08-11 19:26:14
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Referer) cs-host sc-status sc-bytes cs-bytes 
+2013-08-11 19:26:13 W3SVC668947 GET /vienepronto.html - - 81.169.139.145 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.17+(KHTML,+like+Gecko)+Chrome/24.0.1312.56+Safari/537.17 - itdmx.com 200 5349 203

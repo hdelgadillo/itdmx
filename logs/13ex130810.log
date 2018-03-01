@@ -1,0 +1,26 @@
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2013-08-10 08:44:20
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Referer) cs-host sc-status sc-bytes cs-bytes 
+2013-08-10 08:44:20 W3SVC668947 GET /vienepronto.html - - 188.85.202.134 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64;+rv:7.0.1)+Gecko/20100101+Firefox/7.0.1 http://itdmx.com itdmx.com 200 5330 385
+2013-08-10 08:44:21 W3SVC668947 GET /wp-login.php - - 188.85.202.134 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64;+rv:7.0.1)+Gecko/20100101+Firefox/7.0.1 itdmx.com itdmx.com 404 4173 366
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2013-08-10 15:54:37
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Referer) cs-host sc-status sc-bytes cs-bytes 
+2013-08-10 15:54:36 W3SVC668947 GET /vienepronto.html - - 178.255.87.241 HTTP/1.1 Java/1.6.0_29 - itdmx.com 200 5330 148
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2013-08-10 17:37:21
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Referer) cs-host sc-status sc-bytes cs-bytes 
+2013-08-10 17:37:20 W3SVC668947 GET /vienepronto.html - - 180.76.5.15 HTTP/1.1 Mozilla/5.0+(compatible;+Baiduspider/2.0;++http://www.baidu.com/search/spider.html) - itdmx.com 200 1422 211
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2013-08-10 23:37:39
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Referer) cs-host sc-status sc-bytes cs-bytes 
+2013-08-10 23:37:39 W3SVC668947 GET /robots.txt - - 180.76.6.225 HTTP/1.1 Mozilla/5.0+(Windows+NT+5.1;+rv:6.0.2)+Gecko/20100101+Firefox/6.0.2 - itdmx.com 404 0 181
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2013-08-11 03:19:45
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Referer) cs-host sc-status sc-bytes cs-bytes 
+2013-08-11 03:19:45 W3SVC668947 GET /vienepronto.html - - 46.0.193.105 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1) http://itdmx.com itdmx.com 200 1422 173

@@ -1,0 +1,130 @@
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="www.itdmx.com" resolutions="1x" timestamp="1476463859497">
+  <folder name="css">
+    <file name="site_global.css" crc="2851555"/>
+    <file name="master_a-master.css" crc="3885286805" ref="nube:index:venta:infra-tecno:infra-computo:rh:contacto:contabilidad:servicios:tecnologia:consulting:virtualizacion"/>
+    <file name="nube.css" crc="270751229" ref="nube"/>
+    <file name="index.css" crc="208824932" ref="index"/>
+    <file name="venta.css" crc="162751462" ref="venta"/>
+    <file name="infra-tecno.css" crc="4272841521" ref="infra-tecno"/>
+    <file name="infra-computo.css" crc="285428442" ref="infra-computo"/>
+    <file name="rh.css" crc="4013673314" ref="rh"/>
+    <file name="contacto.css" crc="93882949" ref="contacto"/>
+    <file name="contabilidad.css" crc="4293021980" ref="contabilidad"/>
+    <file name="servicios.css" crc="246123600" ref="servicios"/>
+    <file name="tecnologia.css" crc="4213778989" ref="tecnologia"/>
+    <file name="consulting.css" crc="465966581" ref="consulting"/>
+    <file name="virtualizacion.css" crc="3807503876" ref="virtualizacion"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="phone>index:phone>tecnologia:phone>servicios:phone>venta:phone>infra-computo:phone>nube:phone>infra-tecno:phone>virtualizacion:phone>rh:phone>consulting:phone>contabilidad:phone>contacto:index:tecnologia:servicios:rh:infra-computo:venta:virtualizacion:nube:consulting:infra-tecno:contabilidad:contacto"/>
+    <file name="museutils.js" crc="183364071" ref="phone>index:phone>tecnologia:phone>servicios:phone>venta:phone>infra-computo:phone>nube:phone>infra-tecno:phone>virtualizacion:phone>rh:phone>consulting:phone>contabilidad:phone>contacto:index:tecnologia:servicios:rh:infra-computo:venta:virtualizacion:nube:consulting:infra-tecno:contabilidad:contacto"/>
+    <file name="pie.js" crc="3827607177" ref="phone>index:phone>tecnologia:phone>servicios:phone>venta:phone>virtualizacion:phone>rh:phone>consulting:phone>contabilidad:phone>contacto:index:tecnologia:servicios:rh:venta:virtualizacion:consulting:contabilidad:contacto"/>
+    <file name="jquery.watch.js" crc="71412426" ref="phone>index:phone>tecnologia:phone>servicios:phone>venta:phone>infra-computo:phone>nube:phone>infra-tecno:phone>virtualizacion:phone>rh:phone>consulting:phone>contabilidad:phone>contacto:index:tecnologia:servicios:rh:infra-computo:venta:virtualizacion:nube:consulting:infra-tecno:contabilidad:contacto"/>
+    <file name="webpro.js" crc="3803554875" ref="phone>index:phone>tecnologia:phone>servicios:phone>venta:phone>infra-computo:phone>nube:phone>infra-tecno:phone>virtualizacion:phone>rh:phone>consulting:phone>contabilidad:phone>contacto:index:consulting"/>
+    <file name="musewpslideshow.js" crc="242596657" ref="phone>index:phone>tecnologia:phone>servicios:phone>venta:phone>infra-computo:phone>nube:phone>infra-tecno:phone>virtualizacion:phone>rh:phone>consulting:phone>contabilidad:phone>contacto:index:consulting"/>
+    <file name="jquery.museoverlay.js" crc="493285861" ref="phone>index:phone>tecnologia:phone>servicios:phone>venta:phone>infra-computo:phone>nube:phone>infra-tecno:phone>virtualizacion:phone>rh:phone>consulting:phone>contabilidad:phone>contacto:index:consulting"/>
+    <file name="touchswipe.js" crc="4038331989" ref="phone>index:phone>tecnologia:phone>servicios:phone>venta:phone>infra-computo:phone>nube:phone>infra-tecno:phone>virtualizacion:phone>rh:phone>consulting:phone>contabilidad:phone>contacto:index:consulting"/>
+    <file name="jquery.scrolleffects.js" crc="3860644955" ref="phone>index:index"/>
+    <file name="museredirect.js" crc="40941066" ref="index:tecnologia:servicios:rh:infra-computo:venta:virtualizacion:nube:consulting:infra-tecno:contabilidad:contacto"/>
+    <file name="jquery.musemenu.js" crc="3957776250" ref="index:tecnologia:servicios:rh:infra-computo:venta:virtualizacion:nube:consulting:infra-tecno:contabilidad:contacto"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4004268962" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:tecnologia:servicios:rh:infra-computo:venta:virtualizacion:nube:consulting:infra-tecno:contabilidad:contacto"/>
+  </folder>
+  <folder name="images">
+    <file name="logo-itdmx.jpg" crc="4177696576" seo="true" ref="phone>index:phone>tecnologia:phone>servicios:phone>venta:phone>infra-computo:phone>nube:phone>infra-tecno:phone>virtualizacion:phone>rh:phone>consulting:phone>contabilidad:phone>contacto:index:tecnologia:servicios:rh:infra-computo:venta:virtualizacion:nube:consulting:infra-tecno:contabilidad:contacto"/>
+    <file name="pointer.png" crc="3760686964" seo="true" ref="phone>index:phone>tecnologia:phone>servicios:phone>venta:phone>infra-computo:phone>nube:phone>infra-tecno:phone>virtualizacion:phone>rh:phone>consulting:phone>contabilidad:phone>contacto"/>
+    <file name="menu_icon_04_white_3line-crop-u3838.png" crc="4113681886" ref="phone>index:phone>tecnologia:phone>servicios:phone>venta:phone>infra-computo:phone>nube:phone>infra-tecno:phone>virtualizacion:phone>rh:phone>consulting:phone>contabilidad:phone>contacto"/>
+    <file name="close_light.png" crc="126613487" seo="true" ref="phone>index:phone>tecnologia:phone>servicios:phone>venta:phone>infra-computo:phone>nube:phone>infra-tecno:phone>virtualizacion:phone>rh:phone>consulting:phone>contabilidad:phone>contacto"/>
+    <file name="banner-itdmx_01-movil.jpg" crc="4205003921" seo="true" ref="phone>index"/>
+    <file name="blank.gif" crc="4208392903" ref="phone>index:index"/>
+    <file name="banner-itdmx_02-movil.jpg" crc="4044901620" seo="true" ref="phone>index"/>
+    <file name="banner-itdmx_03.jpg" crc="3791215420" seo="true" ref="phone>index:index"/>
+    <file name="loading.gif" crc="3815509949" ref="phone>index:index"/>
+    <file name="itdmx-tecno-icon.png" crc="63016539" seo="true" ref="phone>index:index"/>
+    <file name="itdmx-rh-icon.png" crc="3762601602" seo="true" ref="phone>index:index"/>
+    <file name="itdmx-conta-icon.png" crc="207692358" seo="true" ref="phone>index:index"/>
+    <file name="itdmx_quienes-m.jpg" crc="3845803214" ref="phone>index"/>
+    <file name="facebook-buttonu3223-fr.png" crc="495455740" ref="phone>index:index"/>
+    <file name="itdmx-tecnologia.jpg" crc="468309398" seo="true" ref="phone>tecnologia:tecnologia"/>
+    <file name="itdmx-servicios.jpg" crc="71900542" seo="true" ref="phone>servicios:servicios"/>
+    <file name="servidores-hp.jpg" crc="99598355" seo="true" ref="phone>venta:venta"/>
+    <file name="itdmx-computo281x187.jpg" crc="4255037271" seo="true" ref="phone>venta"/>
+    <file name="itdmx-infraestructura.jpg" crc="482642618" seo="true" ref="phone>infra-computo:infra-computo"/>
+    <file name="itdmx-nube.jpg" crc="264596302" seo="true" ref="phone>nube:nube"/>
+    <file name="itdmx-infra-tec.jpg" crc="111126009" seo="true" ref="phone>infra-tecno:infra-tecno"/>
+    <file name="vmware_virtualization.jpg" crc="3832507479" seo="true" ref="phone>virtualizacion:virtualizacion"/>
+    <file name="image-3.png" crc="14242399" seo="true" ref="phone>rh:rh"/>
+    <file name="itdmx-conta.jpg" crc="3889040991" seo="true" ref="phone>rh:rh"/>
+    <file name="itdmx-consulting-01m.jpg" crc="408851924" ref="phone>consulting"/>
+    <file name="itdmx-consulting-02m.jpg" crc="3859397707" ref="phone>consulting"/>
+    <file name="itdmx-hr-01m.jpg" crc="316879935" ref="phone>consulting"/>
+    <file name="itdmx-hr-02m.jpg" crc="3840371380" ref="phone>consulting"/>
+    <file name="itdmx-travel-01m.jpg" crc="4017342901" ref="phone>consulting"/>
+    <file name="itdmx-travel-02m.jpg" crc="4157120501" ref="phone>consulting"/>
+    <file name="logo_hp.png" crc="331191108" seo="true" ref="phone>consulting:consulting"/>
+    <file name="logo_sant.png" crc="3999511377" seo="true" ref="phone>consulting:consulting"/>
+    <file name="logo_toka.png" crc="4063571400" seo="true" ref="phone>consulting:consulting"/>
+    <file name="logo_n121.png" crc="168071145" seo="true" ref="phone>consulting:consulting"/>
+    <file name="logo_comp.png" crc="279516022" seo="true" ref="phone>consulting:consulting"/>
+    <file name="logo_osh.png" crc="478065820" seo="true" ref="phone>consulting:consulting"/>
+    <file name="logo_halli.png" crc="407433887" seo="true" ref="phone>consulting:consulting"/>
+    <file name="logo_drago.png" crc="250320613" seo="true" ref="phone>consulting:consulting"/>
+    <file name="itdmx-construccion_movil.jpg" crc="412186858" seo="true" ref="phone>contabilidad"/>
+    <file name="contacto-ubicacion.png" crc="32791271" seo="true" ref="phone>contacto:contacto"/>
+    <file name="contacto-tel.png" crc="367705756" seo="true" ref="phone>contacto:contacto"/>
+    <file name="contacto-mail.png" crc="419159439" seo="true" ref="phone>contacto:contacto"/>
+    <file name="arrowmenudown.gif" crc="213132104" ref="index"/>
+    <file name="banner-itdmx_01.jpg" crc="3831768907" seo="true" ref="index"/>
+    <file name="banner-itdmx_02.jpg" crc="232487057" seo="true" ref="index"/>
+    <file name="itdmx_quines.jpg" crc="8235682" ref="index"/>
+    <file name="itdmx-computo.jpg" crc="3958350310" seo="true" ref="venta"/>
+    <file name="itdmx-consulting-01.jpg" crc="156192687" ref="consulting"/>
+    <file name="itdmx-consulting-02.jpg" crc="3967017731" ref="consulting"/>
+    <file name="itdmx-hr-01.jpg" crc="4170340698" ref="consulting"/>
+    <file name="itdmx-hr-02.jpg" crc="4245473721" ref="consulting"/>
+    <file name="itdmx-travel-01.jpg" crc="498438320" ref="consulting"/>
+    <file name="itdmx-travel-02.jpg" crc="3820605647" ref="consulting"/>
+    <file name="itdmx-construccion.jpg" crc="4188251729" seo="true" ref="contabilidad"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_a-master.css" crc="4019473806" ref="phone>contacto:phone>infra-tecno:phone>virtualizacion:phone>consulting:phone>contabilidad:phone>servicios:phone>venta:phone>index:phone>nube:phone>rh:phone>infra-computo:phone>tecnologia"/>
+      <file name="contacto.css" crc="4075892116" ref="phone>contacto"/>
+      <file name="infra-tecno.css" crc="386722679" ref="phone>infra-tecno"/>
+      <file name="virtualizacion.css" crc="363198609" ref="phone>virtualizacion"/>
+      <file name="consulting.css" crc="3842495262" ref="phone>consulting"/>
+      <file name="contabilidad.css" crc="4243918809" ref="phone>contabilidad"/>
+      <file name="servicios.css" crc="115415784" ref="phone>servicios"/>
+      <file name="venta.css" crc="333556889" ref="phone>venta"/>
+      <file name="index.css" crc="3916074282" ref="phone>index"/>
+      <file name="nube.css" crc="4036542406" ref="phone>nube"/>
+      <file name="rh.css" crc="3896993327" ref="phone>rh"/>
+      <file name="infra-computo.css" crc="158805906" ref="phone>infra-computo"/>
+      <file name="tecnologia.css" crc="3799189557" ref="phone>tecnologia"/>
+    </folder>
+    <file name="index.html" crc="4275933775" seo="true" mt="1469125967704" redirect="true"/>
+    <file name="tecnologia.html" crc="3980853380" seo="true" mt="1469125967704" redirect="true"/>
+    <file name="servicios.html" crc="3978702589" seo="true" mt="1469125967704" redirect="true"/>
+    <file name="venta.html" crc="99664363" seo="true" mt="1469125967704" redirect="true"/>
+    <file name="infra-computo.html" crc="239331951" seo="true" mt="1469125967704" redirect="true"/>
+    <file name="nube.html" crc="3854680076" seo="true" mt="1469125967704" redirect="true"/>
+    <file name="infra-tecno.html" crc="4000525317" seo="true" mt="1469125967704" redirect="true"/>
+    <file name="virtualizacion.html" crc="47772604" seo="true" mt="1469125967704" redirect="true"/>
+    <file name="rh.html" crc="3964060551" seo="true" mt="1469125967704" redirect="true"/>
+    <file name="consulting.html" crc="4068094120" seo="true" mt="1469125967704" redirect="true"/>
+    <file name="contabilidad.html" crc="3768631992" seo="true" mt="1469125967704" redirect="true"/>
+    <file name="contacto.html" crc="486292799" seo="true" mt="1469125967704" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="4096577132" seo="true" mt="1469125989992" redirect="true"/>
+  <file name="tecnologia.html" crc="4237300558" seo="true" mt="1469112877515" redirect="true"/>
+  <file name="servicios.html" crc="3853390777" seo="true" mt="1469112880350" redirect="true"/>
+  <file name="rh.html" crc="383484453" seo="true" mt="1469112880351" redirect="true"/>
+  <file name="infra-computo.html" crc="4256162240" seo="true" mt="1469112876487" redirect="true"/>
+  <file name="venta.html" crc="4275111352" seo="true" mt="1469112880352" redirect="true"/>
+  <file name="virtualizacion.html" crc="412279819" seo="true" mt="1469112880352" redirect="true"/>
+  <file name="nube.html" crc="429724139" seo="true" mt="1469112876489" redirect="true"/>
+  <file name="consulting.html" crc="3776941903" seo="true" mt="1469112880353" redirect="true"/>
+  <file name="infra-tecno.html" crc="4188145313" seo="true" mt="1469112876490" redirect="true"/>
+  <file name="contabilidad.html" crc="120836997" seo="true" mt="1469112874130" redirect="true"/>
+  <file name="contacto.html" crc="4070571766" seo="true" mt="1469112880353" redirect="true"/>
+</manifest>
